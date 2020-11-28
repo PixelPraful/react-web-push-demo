@@ -14,6 +14,6 @@ To start frontend application - npm start
 
 Make sure service worker is registered.
 
-Copy the subscription object generated in API and hit via POSTMAN
+Copy the subscription object generated in API after allowing the notifications from frontend and hit the backend API with body as subscription object via POSTMAN
 
 You will recive the notification as per data pass from backend
